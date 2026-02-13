@@ -1,2 +1,93 @@
-      [{"id":1770967115392,"title":"ΧΑΛΒΑΣ ΦΑΡΣΑΛΩΝ","price":7,"image":"https://i.postimg.cc/RFzdxDmm/Anonymo-1-antigrapho.jpg","category":"Πρώτες Ύλες Ζαχαροπλαστικής","stars":5,"isBestSeller":true},{"id":1,"title":"Ταχίνι","price":5.5,"stock":4,"image":"https://i.postimg.cc/NfbdY4nz/tachini.jpg","stars":5,"category":"Πρώτες ύλες Ζαχαροπλαστικής","isBestSeller":true},{"id":2,"title":"Άμυλο Αραβοσίτου","price":2.8,"stock":2,"image":"https://i.postimg.cc/bwz49dXw/AMYLO-ARABOSITOU1.jpg","stars":5,"category":"Πρώτες ύλες Ζαχαροπλαστικής","isBestSeller":true},{"id":3,"title":"Γλυκόζη","price":3.2,"stock":1,"image":"https://i.postimg.cc/85hbYBWt/GLYKOZE-1.jpg","stars":5,"category":"Πρώτες ύλες Ζαχαροπλαστικής","isBestSeller":true},{"id":4,"title":"Ηλιαίλεο","price":14.99,"stock":3,"image":"https://i.postimg.cc/MG2HrLBZ/eliaileo.jpg","stars":5,"category":"Πρώτες ύλες Ζαχαροπλαστικής"},{"id":5,"title":"Ινδοκάρυδο","price":4.5,"stock":4,"image":"https://i.postimg.cc/rFDpyTCV/indokarydo.jpg","stars":5,"category":"Πρώτες ύλες Ζαχαροπλαστικής"},{"id":6,"title":"Γαρύφαλο","price":3.8,"image":"https://i.postimg.cc/tCqMFRmZ/Garyphalo-trimeno.jpg","stars":5,"category":"Πρώτες ύλες Ζαχαροπλαστικής"},{"id":7,"title":"Βανιλίνη","price":1.5,"stock":4,"image":"https://i.postimg.cc/bJ0m24xW/Banilline.jpg","stars":5,"category":"Πρώτες ύλες Ζαχαροπλαστικής"},{"id":8,"title":"Κανέλα Κεϋλάνης","price":4.2,"stock":4,"image":"https://i.postimg.cc/T3j6cRns/kanela.jpg","stars":5,"category":"Πρώτες ύλες Ζαχαροπλαστικής"}] 
-    
+[
+  {
+    "id": 1770983223022,
+    "title": "ΛΟΥΚΟΥΜΙ",
+    "price": 9,
+    "image": "https://i.postimg.cc/02QyWcLk/Anonymo-1-antigrapho-jpg11.jpg",
+    "category": "ΛΟΥΚΟΥΜΙΑ",
+    "isBestSeller": true
+  },
+  {
+    "id": 1770967115392,
+    "title": "ΧΑΛΒΑΣ ΦΑΡΣΑΛΩΝ",
+    "price": 7,
+    "image": "https://i.postimg.cc/RFzdxDmm/Anonymo-1-antigrapho.jpg",
+    "category": "Πρώτες Ύλες Ζαχαροπλαστικής",
+    "stars": 5,
+    "isBestSeller": true
+  },
+  {
+    "id": 1,
+    "title": "Ταχίνι",
+    "price": 5.5,
+    "stock": 4,
+    "image": "https://i.postimg.cc/NfbdY4nz/tachini.jpg",
+    "stars": 5,
+    "category": "Πρώτες ύλες Ζαχαροπλαστικής",
+    "isBestSeller": true
+  },
+  {
+    "id": 2,
+    "title": "Άμυλο Αραβοσίτου",
+    "price": 2.8,
+    "stock": 2,
+    "image": "https://i.postimg.cc/bwz49dXw/AMYLO-ARABOSITOU1.jpg",
+    "stars": 5,
+    "category": "Πρώτες ύλες Ζαχαροπλαστικής",
+    "isBestSeller": true
+  },
+  {
+    "id": 3,
+    "title": "Γλυκόζη",
+    "price": 3.2,
+    "stock": 1,
+    "image": "https://i.postimg.cc/85hbYBWt/GLYKOZE-1.jpg",
+    "stars": 5,
+    "category": "Πρώτες ύλες Ζαχαροπλαστικής",
+    "isBestSeller": true
+  },
+  {
+    "id": 4,
+    "title": "Ηλιαίλεο",
+    "price": 14.99,
+    "stock": 3,
+    "image": "https://i.postimg.cc/MG2HrLBZ/eliaileo.jpg",
+    "stars": 5,
+    "category": "Πρώτες ύλες Ζαχαροπλαστικής"
+  },
+  {
+    "id": 5,
+    "title": "Ινδοκάρυδο",
+    "price": 4.5,
+    "stock": 4,
+    "image": "https://i.postimg.cc/rFDpyTCV/indokarydo.jpg",
+    "stars": 5,
+    "category": "Πρώτες ύλες Ζαχαροπλαστικής"
+  },
+  {
+    "id": 6,
+    "title": "Γαρύφαλο",
+    "price": 3.8,
+    "image": "https://i.postimg.cc/tCqMFRmZ/Garyphalo-trimeno.jpg",
+    "stars": 5,
+    "category": "Πρώτες ύλες Ζαχαροπλαστικής"
+  },
+  {
+    "id": 7,
+    "title": "Βανιλίνη",
+    "price": 1.5,
+    "stock": 4,
+    "image": "https://i.postimg.cc/bJ0m24xW/Banilline.jpg",
+    "stars": 5,
+    "category": "Πρώτες ύλες Ζαχαροπλαστικής"
+  },
+  {
+    "id": 8,
+    "title": "Κανέλα Κεϋλάνης",
+    "price": 4.2,
+    "stock": 4,
+    "image": "https://i.postimg.cc/T3j6cRns/kanela.jpg",
+    "stars": 5,
+    "category": "Πρώτες ύλες Ζαχαροπλαστικής"
+  }
+]
